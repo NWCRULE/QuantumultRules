@@ -1,0 +1,855 @@
+# (OverseaMedia)
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com,OverseaMedia
+DOMAIN-SUFFIX,go.com,OverseaMedia
+
+# > AbemaTV
+DOMAIN,linear-abematv.akamaized.net,OverseaMedia
+DOMAIN-SUFFIX,abema.io,OverseaMedia
+DOMAIN-SUFFIX,abema.tv,OverseaMedia
+DOMAIN-SUFFIX,akamaized.net,OverseaMedia
+DOMAIN-SUFFIX,ameba.jp,OverseaMedia
+DOMAIN-SUFFIX,hayabusa.io,OverseaMedia
+
+# > Amazon Prime Video
+DOMAIN-SUFFIX,aiv-cdn.net,OverseaMedia
+DOMAIN-SUFFIX,amazonaws.com,OverseaMedia
+DOMAIN-SUFFIX,amazonvideo.com,OverseaMedia
+DOMAIN-SUFFIX,llnwd.net,OverseaMedia
+
+# > Bahamut
+DOMAIN-SUFFIX,bahamut.com.tw,OverseaMedia
+DOMAIN-SUFFIX,gamer.com.tw,OverseaMedia
+DOMAIN-SUFFIX,hinet.net,OverseaMedia
+
+# > BBC
+DOMAIN-KEYWORD,bbcfmt,OverseaMedia
+DOMAIN-KEYWORD,co.uk,OverseaMedia
+DOMAIN-KEYWORD,uk-live,OverseaMedia
+DOMAIN-SUFFIX,bbc.co,OverseaMedia
+DOMAIN-SUFFIX,bbc.co.uk,OverseaMedia
+DOMAIN-SUFFIX,bbc.com,OverseaMedia
+DOMAIN-SUFFIX,bbci.co,OverseaMedia
+DOMAIN-SUFFIX,bbci.co.uk,OverseaMedia
+
+# > CHOCO TV
+DOMAIN-SUFFIX,chocotv.com.tw,OverseaMedia
+
+# > Epicgames
+DOMAIN-KEYWORD,epicgames,OverseaMedia
+DOMAIN-SUFFIX,helpshift.com,OverseaMedia
+
+# > Fox+
+DOMAIN-KEYWORD,foxplus,OverseaMedia
+DOMAIN-SUFFIX,config.fox.com,OverseaMedia
+DOMAIN-SUFFIX,emome.net,OverseaMedia
+DOMAIN-SUFFIX,fox.com,OverseaMedia
+DOMAIN-SUFFIX,foxdcg.com,OverseaMedia
+DOMAIN-SUFFIX,foxnow.com,OverseaMedia
+DOMAIN-SUFFIX,foxplus.com,OverseaMedia
+DOMAIN-SUFFIX,foxplay.com,OverseaMedia
+DOMAIN-SUFFIX,ipinfo.io,OverseaMedia
+DOMAIN-SUFFIX,mstage.io,OverseaMedia
+DOMAIN-SUFFIX,now.com,OverseaMedia
+DOMAIN-SUFFIX,theplatform.com,OverseaMedia
+DOMAIN-SUFFIX,urlload.net,OverseaMedia
+
+# > HBO && HBO Go
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,OverseaMedia
+DOMAIN-SUFFIX,hbo.com,OverseaMedia
+DOMAIN-SUFFIX,hboasia.com,OverseaMedia
+DOMAIN-SUFFIX,hbogo.com,OverseaMedia
+DOMAIN-SUFFIX,hbogoasia.hk,OverseaMedia
+
+# > Hulu
+DOMAIN-SUFFIX,happyon.jp,OverseaMedia
+DOMAIN-SUFFIX,hulu.com,OverseaMedia
+DOMAIN-SUFFIX,huluim.com,OverseaMedia
+DOMAIN-SUFFIX,hulustream.com,OverseaMedia
+
+# > Imkan
+DOMAIN-SUFFIX,imkan.tv,OverseaMedia
+
+# > JOOX
+DOMAIN-SUFFIX,joox.com,OverseaMedia
+
+# > MytvSUPER
+DOMAIN-KEYWORD,nowtv100,OverseaMedia
+DOMAIN-KEYWORD,rthklive,OverseaMedia
+DOMAIN-SUFFIX,mytvsuper.com,OverseaMedia
+DOMAIN-SUFFIX,tvb.com,OverseaMedia
+
+# > Netflix
+DOMAIN-SUFFIX,netflix.com,OverseaMedia
+DOMAIN-SUFFIX,netflix.net,OverseaMedia
+DOMAIN-SUFFIX,nflxext.com,OverseaMedia
+DOMAIN-SUFFIX,nflximg.com,OverseaMedia
+DOMAIN-SUFFIX,nflximg.net,OverseaMedia
+DOMAIN-SUFFIX,nflxso.net,OverseaMedia
+DOMAIN-SUFFIX,nflxvideo.net,OverseaMedia
+
+# > Pandora
+DOMAIN-SUFFIX,pandora.com,OverseaMedia
+
+# > Sky GO
+DOMAIN-SUFFIX,sky.com,OverseaMedia
+DOMAIN-SUFFIX,skygo.co.nz,OverseaMedia
+
+# > Spotify
+DOMAIN-KEYWORD,spotify,OverseaMedia
+DOMAIN-SUFFIX,scdn.co,OverseaMedia
+DOMAIN-SUFFIX,spoti.fi,OverseaMedia
+
+# > viuTV
+DOMAIN-SUFFIX,viu.tv,OverseaMedia
+
+# > Youtube
+DOMAIN-KEYWORD,youtube,OverseaMedia
+DOMAIN-SUFFIX,googlevideo.com,OverseaMedia
+DOMAIN-SUFFIX,gvt2.com,OverseaMedia
+DOMAIN-SUFFIX,youtu.be,OverseaMedia
+
+# (í)
+# > IQIYI
+DOMAIN-KEYWORD,qiyi,DomesticMedia
+DOMAIN-SUFFIX,qy.net,DomesticMedia
+DOMAIN-SUFFIX,iqiyi.com,DomesticMedia
+DOMAIN-SUFFIX,71edge.com,DomesticMedia
+IP-CIDR,101.227.0.0/16,DomesticMedia
+IP-CIDR,101.224.0.0/13,DomesticMedia
+IP-CIDR,119.176.0.0/12,DomesticMedia
+
+# > Tencent Video
+DOMAIN-SUFFIX,vv.video.qq.com,DomesticMedia
+DOMAIN-SUFFIX,video.qq.com,DomesticMedia
+DOMAIN-SUFFIX,i.qq.com,DomesticMedia
+DOMAIN-SUFFIX,v.qq.com,DomesticMedia
+
+# > letv
+DOMAIN-SUFFIX,api.mob.app.letv.com,DomesticMedia
+DOMAIN-SUFFIX,le.com,DomesticMedia
+
+# > Youku
+IP-CIDR,106.11.0.0/16,DomesticMedia
+
+# > Acfun
+DOMAIN-SUFFIX,acfun.cn,DomesticMedia
+DOMAIN-SUFFIX,aixifan.com,DomesticMedia
+
+# > Youku
+DOMAIN-SUFFIX,soku.com,DomesticMedia
+DOMAIN-SUFFIX,youku.com,DomesticMedia
+DOMAIN-SUFFIX,ykimg.com,DomesticMedia
+
+# > XiGua
+DOMAIN-SUFFIX,ixigua.com,DomesticMedia
+DOMAIN-SUFFIX,snssdk.com,DomesticMedia
+
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,DomesticMedia
+DOMAIN-SUFFIX,hunantv.com,DomesticMedia
+DOMAIN-SUFFIX,mgtv.com,DomesticMedia
+
+# > PPLive
+DOMAIN-SUFFIX,pplive.cn,DomesticMedia
+DOMAIN-SUFFIX,pptv.com,DomesticMedia
+
+# > Sohu Video
+DOMAIN-SUFFIX,itc.cn,DomesticMedia
+DOMAIN-SUFFIX,sohu.com,DomesticMedia
+
+# > Migu Video
+DOMAIN-SUFFIX,cmvideo.cn,DomesticMedia
+DOMAIN-SUFFIX,miguvideo.com,DomesticMedia
+
+# > NeteaseMusic
+DOMAIN-SUFFIX,163yun.com,NeteaseMusic
+DOMAIN-SUFFIX,music.126.net,NeteaseMusic
+DOMAIN-SUFFIX,music.163.com,NeteaseMusic
+DOMAIN,mam.netease.com,NeteaseMusic
+DOMAIN,api.iplay.163.com,NeteaseMusic
+
+
+
+# China Area Network
+# > Microsoft
+DOMAIN-SUFFIX,microsoft.com,Domestic
+DOMAIN-SUFFIX,windows.net,Domestic
+DOMAIN-SUFFIX,sfx.ms,Domestic
+DOMAIN-SUFFIX,sharepoint.com,Domestic
+DOMAIN-KEYWORD,officecdn,Domestic
+# > Blizzard
+DOMAIN-SUFFIX,blizzard.com,Domestic
+DOMAIN-SUFFIX,battle.net,Domestic
+DOMAIN,blzddist1-a.akamaihd.net,Domestic
+# > Steam
+DOMAIN-SUFFIX,steampowered.com,Domestic
+DOMAIN-SUFFIX,steam-chat.com,Domestic
+DOMAIN-KEYWORD,steamcdn,Domestic
+DOMAIN-KEYWORD,steamstore,Domestic
+DOMAIN-KEYWORD,steamuserimages,Domestic
+DOMAIN-KEYWORD,steambroadcast,Domestic
+# > Tencent
+#USER-AGENT,MicroMessenger%20Client,Domestic
+#USER-AGENT,WeChat*,Domestic
+DOMAIN-SUFFIX,qq.com,Domestic
+DOMAIN-SUFFIX,qpic.cn,Domestic
+DOMAIN-SUFFIX,tencent.com,Domestic
+# > Alibaba
+DOMAIN-SUFFIX,alibaba.com,Domestic
+DOMAIN-SUFFIX,alicdn.com,Domestic
+DOMAIN-SUFFIX,amap.com,Domestic
+DOMAIN-SUFFIX,dingtalk.com,Domestic
+DOMAIN-SUFFIX,taobao.com,Domestic
+DOMAIN-SUFFIX,tmall.com,Domestic
+DOMAIN-SUFFIX,ykimg.com,Domestic
+DOMAIN-SUFFIX,youku.com,Domestic
+DOMAIN-SUFFIX,xiami.com,Domestic
+DOMAIN-SUFFIX,xiami.net,Domestic
+# > NetEase
+DOMAIN-SUFFIX,163.com,Domestic
+DOMAIN-SUFFIX,126.net,Domestic
+DOMAIN-SUFFIX,163yun.com,Domestic
+# > Sohu
+DOMAIN-SUFFIX,sohu.com.cn,Domestic
+DOMAIN-SUFFIX,itc.cn,Domestic
+DOMAIN-SUFFIX,sohu.com,Domestic
+DOMAIN-SUFFIX,v-56.com,Domestic
+# > Sina
+DOMAIN-SUFFIX,weibo.com,Domestic
+DOMAIN-SUFFIX,weibo.cn,Domestic
+DOMAIN-SUFFIX,weibocdn.com,Domestic
+DOMAIN-SUFFIX,sina.com,Domestic
+DOMAIN-SUFFIX,sina.com.cn,Domestic
+DOMAIN-SUFFIX,sina.cn,Domestic
+DOMAIN-SUFFIX,sinaimg.cn,Domestic
+DOMAIN-SUFFIX,sinajs.cn,Domestic
+# > XiaoHongShu
+DOMAIN-SUFFIX,xiaohongshu.com,Domestic
+# > DMZJ
+DOMAIN-SUFFIX,dmzj.com,Domestic
+DOMAIN-SUFFIX,idmzj.com,Domestic
+# > JD
+DOMAIN-SUFFIX,jd.com,Domestic
+DOMAIN-SUFFIX,jd.hk,Domestic
+DOMAIN-SUFFIX,360buyimg.com,Domestic
+# > MI
+DOMAIN-SUFFIX,duokan.com,Domestic
+DOMAIN-SUFFIX,mi-img.com,Domestic
+DOMAIN-SUFFIX,mifile.cn,Domestic
+DOMAIN-SUFFIX,xiaomi.com,Domestic
+# > iQiyi
+DOMAIN-SUFFIX,iqiyi.com,Domestic
+DOMAIN-SUFFIX,iqiyipic.com,Domestic
+DOMAIN-SUFFIX,71.am.com,Domestic
+# > HunanTV
+DOMAIN-SUFFIX,hitv.com,Domestic
+DOMAIN-SUFFIX,mgtv.com,Domestic
+# > Meitu
+DOMAIN-SUFFIX,meitu.com,Domestic
+DOMAIN-SUFFIX,meitudata.com,Domestic
+DOMAIN-SUFFIX,meipai.com,Domestic
+# > YYeTs
+DOMAIN-SUFFIX,zmzapi.com,Domestic
+DOMAIN-SUFFIX,zimuzu.tv,Domestic
+DOMAIN-SUFFIX,zmzfile.com,Domestic
+DOMAIN-SUFFIX,zmzapi.net,Domestic
+# > 蛋蛋赞
+DOMAIN-SUFFIX,baduziyuan.com,Domestic
+DOMAIN-SUFFIX,com-hs-hkdy.com,Domestic
+DOMAIN-SUFFIX,czybjz.com,Domestic
+DOMAIN-SUFFIX,dandanzan.com,Domestic
+DOMAIN-SUFFIX,fjhps.com,Domestic
+DOMAIN-SUFFIX,kuyunbo.club,Domestic
+# > Baidu
+DOMAIN-SUFFIX,baidu.com,Domestic
+DOMAIN-SUFFIX,baidubcr.com,Domestic
+DOMAIN-SUFFIX,bdstatic.com,Domestic
+# > ChinaNet
+DOMAIN-SUFFIX,189.cn,Domestic
+DOMAIN-SUFFIX,21cn.com,Domestic
+# > ByteDance
+DOMAIN-SUFFIX,bytecdn.cn,Domestic
+DOMAIN-SUFFIX,pstatp.com,Domestic
+DOMAIN-SUFFIX,snssdk.com,Domestic
+DOMAIN-SUFFIX,toutiao.com,Domestic
+# > Content Delivery Network
+# > Akamai
+DOMAIN-SUFFIX,akadns.net,Domestic
+# DOMAIN-SUFFIX,akamai.net,Domestic
+# DOMAIN-SUFFIX,akamaiedge.net,Domestic
+# DOMAIN-SUFFIX,akamaihd.net,Domestic
+# DOMAIN-SUFFIX,akamaistream.net,Domestic
+# DOMAIN-SUFFIX,akamaized.net,Domestic
+# > ChinaNetCenter
+DOMAIN-SUFFIX,chinanetcenter.com,Domestic
+DOMAIN-SUFFIX,wangsu.com,Domestic
+# > IP Query
+DOMAIN-SUFFIX,ipip.net,Domestic
+DOMAIN-SUFFIX,ip.cn,Domestic
+DOMAIN-SUFFIX,ip.la,Domestic
+DOMAIN-SUFFIX,ip-cdn.com,Domestic
+DOMAIN-SUFFIX,ipv6-test.com,Domestic
+DOMAIN-SUFFIX,test-ipv6.com,Domestic
+DOMAIN-SUFFIX,whatismyip.com,Domestic
+DOMAIN,ip.bjango.com,Domestic
+# > Other
+DOMAIN-SUFFIX,40017.cn,Domestic
+DOMAIN-SUFFIX,broadcasthe.net,Domestic
+DOMAIN-SUFFIX,cailianpress.com,Domestic
+DOMAIN-SUFFIX,chdbits.co,Domestic
+DOMAIN-SUFFIX,chushou.tv,Domestic
+DOMAIN-SUFFIX,cmbchina.com,Domestic
+DOMAIN-SUFFIX,cmbimg.com,Domestic
+DOMAIN-SUFFIX,cmct.tv,Domestic
+DOMAIN-SUFFIX,cmvideo.cn,Domestic
+DOMAIN-SUFFIX,cnlang.org,Domestic
+DOMAIN-SUFFIX,doubanio.com,Domestic
+DOMAIN-SUFFIX,douyu.com,Domestic
+DOMAIN-SUFFIX,douyucdn.cn,Domestic
+DOMAIN-SUFFIX,dxycdn.com,Domestic
+DOMAIN-SUFFIX,hicloud.com,Domestic
+DOMAIN-SUFFIX,hdchina.org,Domestic
+DOMAIN-SUFFIX,hdcmct.org,Domestic
+DOMAIN-SUFFIX,ithome.com,Domestic
+DOMAIN-SUFFIX,kkmh.com,Domestic
+DOMAIN-SUFFIX,ksosoft.com,Domestic
+DOMAIN-SUFFIX,maoyun.tv,Domestic
+DOMAIN-SUFFIX,meituan.net,Domestic
+DOMAIN-SUFFIX,mobike.com,Domestic
+DOMAIN-SUFFIX,mubu.com,Domestic
+DOMAIN-SUFFIX,myzaker.com,Domestic
+DOMAIN-SUFFIX,ourbits.club,Domestic
+DOMAIN-SUFFIX,passthepopcorn.me,Domestic
+DOMAIN-SUFFIX,paypal.com,Domestic
+DOMAIN-SUFFIX,paypalobjects.com,Domestic
+DOMAIN-SUFFIX,privatehd.to,Domestic
+DOMAIN-SUFFIX,redacted.ch,Domestic
+DOMAIN-SUFFIX,ruguoapp.com,Domestic
+DOMAIN-SUFFIX,smzdm.com,Domestic
+DOMAIN-SUFFIX,sogou.com,Domestic
+DOMAIN-SUFFIX,teamviewer.com,Domestic
+DOMAIN-SUFFIX,totheglory.im,Domestic
+DOMAIN-SUFFIX,tp.m-team.cc,Domestic
+DOMAIN-SUFFIX,udacity.com,Domestic
+DOMAIN-SUFFIX,xmcdn.com,Domestic
+DOMAIN-SUFFIX,yangkeduo.com,Domestic
+DOMAIN-SUFFIX,zhihu.com,Domestic
+DOMAIN-SUFFIX,zhimg.com,Domestic
+#USER-AGENT,NeteaseMusic*,Domestic
+#USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,Domestic
+
+# (DNS Cache Pollution Protection)
+# > Bilibili
+DOMAIN-KEYWORD,bilibili,Bilibili
+DOMAIN-SUFFIX,acg.tv,Bilibili
+DOMAIN-SUFFIX,acgvideo.com,Bilibili
+DOMAIN-SUFFIX,b23.tv,Bilibili
+DOMAIN-SUFFIX,biliapi.com,Bilibili
+DOMAIN-SUFFIX,biliapi.net,Bilibili
+DOMAIN-SUFFIX,bilibili.com,Bilibili
+DOMAIN-SUFFIX,biligame.com,Bilibili
+DOMAIN-SUFFIX,biligame.net,Bilibili
+DOMAIN-SUFFIX,bilivideo.com,Bilibili
+DOMAIN-SUFFIX,hdslb.com,Bilibili
+DOMAIN-SUFFIX,im9.com,Bilibili
+
+# > Google
+DOMAIN-SUFFIX,appspot.com,Oversea
+DOMAIN-SUFFIX,blogger.com,Oversea
+DOMAIN-SUFFIX,getoutline.org,Oversea
+DOMAIN-SUFFIX,gvt0.com,Oversea
+DOMAIN-SUFFIX,gvt1.com,Oversea
+DOMAIN-SUFFIX,gvt3.com,Oversea
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Oversea
+DOMAIN-KEYWORD,google,Oversea
+DOMAIN-KEYWORD,blogspot,Oversea
+# > Facebook
+DOMAIN-SUFFIX,cdninstagram.com,Oversea
+DOMAIN-SUFFIX,fb.com,Oversea
+DOMAIN-SUFFIX,fb.me,Oversea
+DOMAIN-SUFFIX,fbaddins.com,Oversea
+DOMAIN-SUFFIX,fbcdn.net,Oversea
+DOMAIN-SUFFIX,fbsbx.com,Oversea
+DOMAIN-SUFFIX,fbworkmail.com,Oversea
+DOMAIN-SUFFIX,instagram.com,Oversea
+DOMAIN-SUFFIX,m.me,Oversea
+DOMAIN-SUFFIX,messenger.com,Oversea
+DOMAIN-SUFFIX,oculus.com,Oversea
+DOMAIN-SUFFIX,oculuscdn.com,Oversea
+DOMAIN-SUFFIX,rocksdb.org,Oversea
+DOMAIN-SUFFIX,whatsapp.com,Oversea
+DOMAIN-SUFFIX,whatsapp.net,Oversea
+DOMAIN-KEYWORD,facebook,Oversea
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv,Oversea
+DOMAIN-SUFFIX,periscope.tv,Oversea
+DOMAIN-SUFFIX,t.co,Oversea
+DOMAIN-SUFFIX,twimg.co,Oversea
+DOMAIN-SUFFIX,twimg.com,Oversea
+DOMAIN-SUFFIX,twitpic.com,Oversea
+DOMAIN-SUFFIX,vine.co,Oversea
+DOMAIN-KEYWORD,twitter,Oversea
+# > Telegram
+DOMAIN-SUFFIX,t.me,Oversea
+DOMAIN-SUFFIX,tdesktop.com,Oversea
+DOMAIN-SUFFIX,telegra.ph,Oversea
+DOMAIN-SUFFIX,telegram.me,Oversea
+DOMAIN-SUFFIX,telegram.org,Oversea
+# > Line
+DOMAIN-SUFFIX,line.me,Oversea
+DOMAIN-SUFFIX,line-apps.com,Oversea
+DOMAIN-SUFFIX,line-scdn.net,Oversea
+DOMAIN-SUFFIX,naver.jp,Oversea
+# > Other
+DOMAIN-SUFFIX,4shared.com,Oversea
+DOMAIN-SUFFIX,881903.com,Oversea
+DOMAIN-SUFFIX,abc.net.au,Oversea
+DOMAIN-SUFFIX,abebooks.com,Oversea
+DOMAIN-SUFFIX,amazon.co.jp,Oversea
+DOMAIN-SUFFIX,apigee.com,Oversea
+DOMAIN-SUFFIX,apk-dl.com,Oversea
+DOMAIN-SUFFIX,apkmirror.com,Oversea
+DOMAIN-SUFFIX,apkmonk.com,Oversea
+DOMAIN-SUFFIX,apkpure.com,Oversea
+DOMAIN-SUFFIX,aptoide.com,Oversea
+DOMAIN-SUFFIX,archive.is,Oversea
+DOMAIN-SUFFIX,archive.org,Oversea
+DOMAIN-SUFFIX,arte.tv,Oversea
+DOMAIN-SUFFIX,ask.com,Oversea
+DOMAIN-SUFFIX,avgle.com,Oversea
+DOMAIN-SUFFIX,badoo.com,Oversea
+DOMAIN-SUFFIX,bandwagonhost.com,Oversea
+DOMAIN-SUFFIX,bbc.com,Oversea
+DOMAIN-SUFFIX,behance.net,Oversea
+DOMAIN-SUFFIX,bibox.com,Oversea
+DOMAIN-SUFFIX,biggo.com.tw,Oversea
+DOMAIN-SUFFIX,binance.com,Oversea
+DOMAIN-SUFFIX,bitcointalk.org,Oversea
+DOMAIN-SUFFIX,bitfinex.com,Oversea
+DOMAIN-SUFFIX,bitmex.com,Oversea
+DOMAIN-SUFFIX,bit-z.com,Oversea
+DOMAIN-SUFFIX,bloglovin.com,Oversea
+DOMAIN-SUFFIX,bloomberg.cn,Oversea
+DOMAIN-SUFFIX,bloomberg.com,Oversea
+DOMAIN-SUFFIX,book.com.tw,Oversea
+DOMAIN-SUFFIX,booklive.jp,Oversea
+DOMAIN-SUFFIX,books.com.tw,Oversea
+DOMAIN-SUFFIX,box.com,Oversea
+DOMAIN-SUFFIX,brookings.edu,Oversea
+DOMAIN-SUFFIX,businessinsider.com,Oversea
+DOMAIN-SUFFIX,bwh1.net,Oversea
+DOMAIN-SUFFIX,castbox.fm,Oversea
+DOMAIN-SUFFIX,cbc.ca,Oversea
+DOMAIN-SUFFIX,cdw.com,Oversea
+DOMAIN-SUFFIX,change.org,Oversea
+DOMAIN-SUFFIX,ck101.com,Oversea
+DOMAIN-SUFFIX,clarionproject.org,Oversea
+DOMAIN-SUFFIX,clyp.it,Oversea
+DOMAIN-SUFFIX,cna.com.tw,Oversea
+DOMAIN-SUFFIX,comparitech.com,Oversea
+DOMAIN-SUFFIX,conoha.jp,Oversea
+DOMAIN-SUFFIX,crucial.com,Oversea
+DOMAIN-SUFFIX,cts.com.tw,Oversea
+DOMAIN-SUFFIX,cw.com.tw,Oversea
+DOMAIN-SUFFIX,cyberctm.com,Oversea
+DOMAIN-SUFFIX,dailymotion.com,Oversea
+DOMAIN-SUFFIX,dailyview.tw,Oversea
+DOMAIN-SUFFIX,daum.net,Oversea
+DOMAIN-SUFFIX,daumcdn.net,Oversea
+DOMAIN-SUFFIX,dcard.tw,Oversea
+DOMAIN-SUFFIX,deepdiscount.com,Oversea
+DOMAIN-SUFFIX,deezer.com,Oversea
+DOMAIN-SUFFIX,depositphotos.com,Oversea
+DOMAIN-SUFFIX,disconnect.me,Oversea
+DOMAIN-SUFFIX,discordapp.com,Oversea
+DOMAIN-SUFFIX,discordapp.net,Oversea
+DOMAIN-SUFFIX,disqus.com,Oversea
+DOMAIN-SUFFIX,dns2go.com,Oversea
+DOMAIN-SUFFIX,dropbox.com,Oversea
+DOMAIN-SUFFIX,dropboxusercontent.com,Oversea
+DOMAIN-SUFFIX,duckduckgo.com,Oversea
+DOMAIN-SUFFIX,dw.com,Oversea
+DOMAIN-SUFFIX,dynu.com,Oversea
+DOMAIN-SUFFIX,earthcam.com,Oversea
+DOMAIN-SUFFIX,ebookservice.tw,Oversea
+DOMAIN-SUFFIX,economist.com,Oversea
+DOMAIN-SUFFIX,edgecastcdn.net,Oversea
+DOMAIN-SUFFIX,edu,Oversea
+DOMAIN-SUFFIX,elpais.com,Oversea
+DOMAIN-SUFFIX,enanyang.my,Oversea
+DOMAIN-SUFFIX,euronews.com,Oversea
+DOMAIN-SUFFIX,feedly.com,Oversea
+DOMAIN-SUFFIX,files.wordpress.com,Oversea
+DOMAIN-SUFFIX,flickr.com,Oversea
+DOMAIN-SUFFIX,flitto.com,Oversea
+DOMAIN-SUFFIX,foreignpolicy.com,Oversea
+DOMAIN-SUFFIX,friday.tw,Oversea
+DOMAIN-SUFFIX,gate.io,Oversea
+DOMAIN-SUFFIX,getlantern.org,Oversea
+DOMAIN-SUFFIX,getsync.com,Oversea
+DOMAIN-SUFFIX,globalvoices.org,Oversea
+DOMAIN-SUFFIX,goo.ne.jp,Oversea
+DOMAIN-SUFFIX,goodreads.com,Oversea
+DOMAIN-SUFFIX,gov.tw,Oversea
+DOMAIN-SUFFIX,gumroad.com,Oversea
+DOMAIN-SUFFIX,hbg.com,Oversea
+DOMAIN-SUFFIX,hightail.com,Oversea
+DOMAIN-SUFFIX,hk01.com,Oversea
+DOMAIN-SUFFIX,hkbf.org,Oversea
+DOMAIN-SUFFIX,hkbookcity.com,Oversea
+DOMAIN-SUFFIX,hkej.com,Oversea
+DOMAIN-SUFFIX,hket.com,Oversea
+DOMAIN-SUFFIX,hkgolden.com,Oversea
+DOMAIN-SUFFIX,hootsuite.com,Oversea
+DOMAIN-SUFFIX,hudson.org,Oversea
+DOMAIN-SUFFIX,huobi.pro,Oversea
+DOMAIN-SUFFIX,initiummall.com,Oversea
+DOMAIN-SUFFIX,ipfs.io,Oversea
+DOMAIN-SUFFIX,issuu.com,Oversea
+DOMAIN-SUFFIX,japantimes.co.jp,Oversea
+DOMAIN-SUFFIX,jiji.com,Oversea
+DOMAIN-SUFFIX,jinx.com,Oversea
+DOMAIN-SUFFIX,jkforum.net,Oversea
+DOMAIN-SUFFIX,joinmastodon.org,Oversea
+DOMAIN-SUFFIX,kakao.com,Oversea
+DOMAIN-SUFFIX,lihkg.com,Oversea
+DOMAIN-SUFFIX,live.com,Oversea
+DOMAIN-SUFFIX,mail.ru,Oversea
+DOMAIN-SUFFIX,matters.news,Oversea
+DOMAIN-SUFFIX,medium.com,Oversea
+DOMAIN-SUFFIX,mega.nz,Oversea
+DOMAIN-SUFFIX,mil,Oversea
+DOMAIN-SUFFIX,mobile01.com,Oversea
+DOMAIN-SUFFIX,naver.com,Oversea
+DOMAIN-SUFFIX,nikkei.com,Oversea
+DOMAIN-SUFFIX,nofile.io,Oversea
+DOMAIN-SUFFIX,now.com,Oversea
+DOMAIN-SUFFIX,nyt.com,Oversea
+DOMAIN-SUFFIX,nytchina.com,Oversea
+DOMAIN-SUFFIX,nytcn.me,Oversea
+DOMAIN-SUFFIX,nytco.com,Oversea
+DOMAIN-SUFFIX,nytimes.com,Oversea
+DOMAIN-SUFFIX,nytimg.com,Oversea
+DOMAIN-SUFFIX,nytlog.com,Oversea
+DOMAIN-SUFFIX,nytstyle.com,Oversea
+DOMAIN-SUFFIX,ok.ru,Oversea
+DOMAIN-SUFFIX,okex.com,Oversea
+DOMAIN-SUFFIX,pcloud.com,Oversea
+DOMAIN-SUFFIX,pinimg.com,Oversea
+DOMAIN-SUFFIX,pixiv.net,Oversea
+DOMAIN-SUFFIX,pornhub.com,Oversea
+DOMAIN-SUFFIX,pureapk.com,Oversea
+DOMAIN-SUFFIX,quora.com,Oversea
+DOMAIN-SUFFIX,quoracdn.net,Oversea
+DOMAIN-SUFFIX,rakuten.co.jp,Oversea
+DOMAIN-SUFFIX,reddit.com,Oversea
+DOMAIN-SUFFIX,redditmedia.com,Oversea
+DOMAIN-SUFFIX,resilio.com,Oversea
+DOMAIN-SUFFIX,reuters.com,Oversea
+DOMAIN-SUFFIX,scmp.com,Oversea
+DOMAIN-SUFFIX,scribd.com,Oversea
+DOMAIN-SUFFIX,seatguru.com,Oversea
+DOMAIN-SUFFIX,shadowsocks.org,Oversea
+DOMAIN-SUFFIX,slideshare.net,Oversea
+DOMAIN-SUFFIX,soundcloud.com,Oversea
+DOMAIN-SUFFIX,startpage.com,Oversea
+DOMAIN-SUFFIX,steamcommunity.com,Oversea
+DOMAIN-SUFFIX,steemit.com,Oversea
+DOMAIN-SUFFIX,t66y.com,Oversea
+DOMAIN-SUFFIX,teco-hk.org,Oversea
+DOMAIN-SUFFIX,teco-mo.org,Oversea
+DOMAIN-SUFFIX,teddysun.com,Oversea
+DOMAIN-SUFFIX,theinitium.com,Oversea
+DOMAIN-SUFFIX,tineye.com,Oversea
+DOMAIN-SUFFIX,torproject.org,Oversea
+DOMAIN-SUFFIX,tumblr.com,Oversea
+DOMAIN-SUFFIX,turbobit.net,Oversea
+DOMAIN-SUFFIX,twitch.tv,Oversea
+DOMAIN-SUFFIX,udn.com,Oversea
+DOMAIN-SUFFIX,unseen.is,Oversea
+DOMAIN-SUFFIX,upmedia.mg,Oversea
+DOMAIN-SUFFIX,uptodown.com,Oversea
+DOMAIN-SUFFIX,ustream.tv,Oversea
+DOMAIN-SUFFIX,uwants.com,Oversea
+DOMAIN-SUFFIX,v2ray.com,Oversea
+DOMAIN-SUFFIX,viber.com,Oversea
+DOMAIN-SUFFIX,videopress.com,Oversea
+DOMAIN-SUFFIX,vimeo.com,Oversea
+DOMAIN-SUFFIX,voxer.com,Oversea
+DOMAIN-SUFFIX,vzw.com,Oversea
+DOMAIN-SUFFIX,w3schools.com,Oversea
+DOMAIN-SUFFIX,wattpad.com,Oversea
+DOMAIN-SUFFIX,whoer.net,Oversea
+DOMAIN-SUFFIX,wikimapia.org,Oversea
+DOMAIN-SUFFIX,wikipedia.org,Oversea
+DOMAIN-SUFFIX,wire.com,Oversea
+DOMAIN-SUFFIX,worldcat.org,Oversea
+DOMAIN-SUFFIX,wsj.com,Oversea
+DOMAIN-SUFFIX,wsj.net,Oversea
+DOMAIN-SUFFIX,xboxlive.com,Oversea
+DOMAIN-SUFFIX,xvideos.com,Oversea
+DOMAIN-SUFFIX,yahoo.com,Oversea
+DOMAIN-SUFFIX,yesasia.com,Oversea
+DOMAIN-SUFFIX,yes-news.com,Oversea
+DOMAIN-SUFFIX,yomiuri.co.jp,Oversea
+DOMAIN-SUFFIX,you-get.org,Oversea
+DOMAIN-SUFFIX,zb.com,Oversea
+DOMAIN-SUFFIX,zello.com,Oversea
+DOMAIN-SUFFIX,zeronet.io,Oversea
+DOMAIN,cdn-images.mailchimp.com,Oversea
+DOMAIN,id.heroku.com,Oversea
+DOMAIN-KEYWORD,github,Oversea
+DOMAIN-KEYWORD,jav,Oversea
+DOMAIN-KEYWORD,pinterest,Oversea
+DOMAIN-KEYWORD,porn,Oversea
+DOMAIN-KEYWORD,wikileaks,Oversea
+
+# (Region-Restricted Access Denied)
+DOMAIN-SUFFIX,apartmentratings.com,Oversea
+DOMAIN-SUFFIX,apartments.com,Oversea
+DOMAIN-SUFFIX,bankmobilevibe.com,Oversea
+DOMAIN-SUFFIX,bing.com,Oversea
+DOMAIN-SUFFIX,booktopia.com.au,Oversea
+DOMAIN-SUFFIX,centauro.com.br,Oversea
+DOMAIN-SUFFIX,clearsurance.com,Oversea
+DOMAIN-SUFFIX,costco.com,Oversea
+DOMAIN-SUFFIX,crackle.com,Oversea
+DOMAIN-SUFFIX,depositphotos.cn,Oversea
+DOMAIN-SUFFIX,dish.com,Oversea
+DOMAIN-SUFFIX,dmm.co.jp,Oversea
+DOMAIN-SUFFIX,dmm.com,Oversea
+DOMAIN-SUFFIX,dnvod.tv,Oversea
+DOMAIN-SUFFIX,esurance.com,Oversea
+DOMAIN-SUFFIX,extmatrix.com,Oversea
+DOMAIN-SUFFIX,fastpic.ru,Oversea
+DOMAIN-SUFFIX,flipboard.com,Oversea
+DOMAIN-SUFFIX,fnac.be,Oversea
+DOMAIN-SUFFIX,fnac.com,Oversea
+DOMAIN-SUFFIX,funkyimg.com,Oversea
+DOMAIN-SUFFIX,fxnetworks.com,Oversea
+DOMAIN-SUFFIX,gettyimages.com,Oversea
+DOMAIN-SUFFIX,jcpenney.com,Oversea
+DOMAIN-SUFFIX,kknews.cc,Oversea
+DOMAIN-SUFFIX,nationwide.com,Oversea
+DOMAIN-SUFFIX,nbc.com,Oversea
+DOMAIN-SUFFIX,nordstrom.com,Oversea
+DOMAIN-SUFFIX,nordstromimage.com,Oversea
+DOMAIN-SUFFIX,nordstromrack.com,Oversea
+DOMAIN-SUFFIX,read01.com,Oversea
+DOMAIN-SUFFIX,superpages.com,Oversea
+DOMAIN-SUFFIX,target.com,Oversea
+DOMAIN-SUFFIX,thinkgeek.com,Oversea
+DOMAIN-SUFFIX,tracfone.com,Oversea
+DOMAIN-SUFFIX,uploader.jp,Oversea
+DOMAIN-SUFFIX,vevo.com,Oversea
+DOMAIN-SUFFIX,viu.tv,Oversea
+DOMAIN-SUFFIX,vk.com,Oversea
+DOMAIN-SUFFIX,vsco.co,Oversea
+DOMAIN-SUFFIX,xfinity.com,Oversea
+DOMAIN-SUFFIX,zattoo.com,Oversea
+DOMAIN,abc.com,Oversea
+DOMAIN,abc.go.com,Oversea
+DOMAIN,abc.net.au,Oversea
+DOMAIN,wego.here.com,Oversea
+#USER-AGENT,Roam*,Oversea
+
+# (The Most Popular Sites)
+# > Apple
+# > Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re,Oversea
+# > TestFlight
+DOMAIN,beta.itunes.apple.com,Oversea
+# > iBooks Store download
+DOMAIN,books.itunes.apple.com,Oversea
+# > iTunes Store Moveis Trailers
+DOMAIN,hls.itunes.apple.com,Oversea
+# App Store Preview
+DOMAIN,itunes.apple.com,Oversea
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com,Oversea
+# > Dictionary
+DOMAIN,lookup-api.apple.com,Oversea
+#PROCESS-NAME,LookupViewService,Oversea
+# > Onamae
+DOMAIN-SUFFIX,onamae.ne.jp,Oversea
+DOMAIN-SUFFIX,onamae.com,Oversea
+# > Google
+DOMAIN-SUFFIX,abc.xyz,Oversea
+DOMAIN-SUFFIX,android.com,Oversea
+DOMAIN-SUFFIX,androidify.com,Oversea
+DOMAIN-SUFFIX,dialogflow.com,Oversea
+DOMAIN-SUFFIX,autodraw.com,Oversea
+DOMAIN-SUFFIX,capitalg.com,Oversea
+DOMAIN-SUFFIX,certificate-transparency.org,Oversea
+DOMAIN-SUFFIX,chrome.com,Oversea
+DOMAIN-SUFFIX,chromeexperiments.com,Oversea
+DOMAIN-SUFFIX,chromestatus.com,Oversea
+DOMAIN-SUFFIX,chromium.org,Oversea
+DOMAIN-SUFFIX,creativelab5.com,Oversea
+DOMAIN-SUFFIX,debug.com,Oversea
+DOMAIN-SUFFIX,deepmind.com,Oversea
+DOMAIN-SUFFIX,firebaseio.com,Oversea
+DOMAIN-SUFFIX,getmdl.io,Oversea
+DOMAIN-SUFFIX,ggpht.com,Oversea
+DOMAIN-SUFFIX,gmail.com,Oversea
+DOMAIN-SUFFIX,gmodules.com,Oversea
+DOMAIN-SUFFIX,godoc.org,Oversea
+DOMAIN-SUFFIX,golang.org,Oversea
+DOMAIN-SUFFIX,gstatic.com,Oversea
+DOMAIN-SUFFIX,gv.com,Oversea
+DOMAIN-SUFFIX,gwtproject.org,Oversea
+DOMAIN-SUFFIX,itasoftware.com,Oversea
+DOMAIN-SUFFIX,madewithcode.com,Oversea
+DOMAIN-SUFFIX,material.io,Oversea
+DOMAIN-SUFFIX,polymer-project.org,Oversea
+DOMAIN-SUFFIX,admin.recaptcha.net,Oversea
+DOMAIN-SUFFIX,recaptcha.net,Oversea
+DOMAIN-SUFFIX,shattered.io,Oversea
+DOMAIN-SUFFIX,synergyse.com,Oversea
+DOMAIN-SUFFIX,tensorflow.org,Oversea
+DOMAIN-SUFFIX,tiltbrush.com,Oversea
+DOMAIN-SUFFIX,waveprotocol.org,Oversea
+DOMAIN-SUFFIX,waymo.com,Oversea
+DOMAIN-SUFFIX,webmproject.org,Oversea
+DOMAIN-SUFFIX,webrtc.org,Oversea
+DOMAIN-SUFFIX,whatbrowser.org,Oversea
+DOMAIN-SUFFIX,widevine.com,Oversea
+DOMAIN-SUFFIX,x.company,Oversea
+DOMAIN-SUFFIX,youtu.be,Oversea
+DOMAIN-SUFFIX,yt.be,Oversea
+DOMAIN-SUFFIX,ytimg.com,Oversea
+# > Steam
+DOMAIN,media.steampowered.com,Oversea
+DOMAIN,store.steampowered.com,Oversea
+# > Other
+DOMAIN-SUFFIX,0rz.tw,Oversea
+DOMAIN-SUFFIX,4bluestones.biz,Oversea
+DOMAIN-SUFFIX,9bis.net,Oversea
+DOMAIN-SUFFIX,allconnected.co,Oversea
+DOMAIN-SUFFIX,amazonaws.com,Oversea
+DOMAIN-SUFFIX,aol.com,Oversea
+DOMAIN-SUFFIX,bcc.com.tw,Oversea
+DOMAIN-SUFFIX,bit.ly,Oversea
+DOMAIN-SUFFIX,bitshare.com,Oversea
+DOMAIN-SUFFIX,blog.jp,Oversea
+DOMAIN-SUFFIX,blogimg.jp,Oversea
+DOMAIN-SUFFIX,blogtd.org,Oversea
+DOMAIN-SUFFIX,broadcast.co.nz,Oversea
+DOMAIN-SUFFIX,camfrog.com,Oversea
+DOMAIN-SUFFIX,cfos.de,Oversea
+DOMAIN-SUFFIX,citypopulation.de,Oversea
+DOMAIN-SUFFIX,cloudfront.net,Oversea
+DOMAIN-SUFFIX,ctitv.com.tw,Oversea
+DOMAIN-SUFFIX,cuhk.edu.hk,Oversea
+DOMAIN-SUFFIX,cusu.hk,Oversea
+DOMAIN-SUFFIX,discuss.com.hk,Oversea
+DOMAIN-SUFFIX,dropboxapi.com,Oversea
+DOMAIN-SUFFIX,edditstatic.com,Oversea
+DOMAIN-SUFFIX,flickriver.com,Oversea
+DOMAIN-SUFFIX,focustaiwan.tw,Oversea
+DOMAIN-SUFFIX,free.fr,Oversea
+DOMAIN-SUFFIX,ftchinese.com,Oversea
+DOMAIN-SUFFIX,gigacircle.com,Oversea
+DOMAIN-SUFFIX,gov,Oversea
+DOMAIN-SUFFIX,hk-pub.com,Oversea
+DOMAIN-SUFFIX,hosting.co.uk,Oversea
+DOMAIN-SUFFIX,hwcdn.net,Oversea
+DOMAIN-SUFFIX,jtvnw.net,Oversea
+DOMAIN-SUFFIX,linksalpha.com,Oversea
+DOMAIN-SUFFIX,manyvids.com,Oversea
+DOMAIN-SUFFIX,myactimes.com,Oversea
+DOMAIN-SUFFIX,newsblur.com,Oversea
+DOMAIN-SUFFIX,now.im,Oversea
+DOMAIN-SUFFIX,redditlist.com,Oversea
+DOMAIN-SUFFIX,signal.org,Oversea
+DOMAIN-SUFFIX,sparknotes.com,Oversea
+DOMAIN-SUFFIX,streetvoice.com,Oversea
+DOMAIN-SUFFIX,ttvnw.net,Oversea
+DOMAIN-SUFFIX,tv.com,Oversea
+DOMAIN-SUFFIX,twitchcdn.net,Oversea
+DOMAIN-SUFFIX,typepad.com,Oversea
+DOMAIN-SUFFIX,udnbkk.com,Oversea
+DOMAIN-SUFFIX,whispersystems.org,Oversea
+DOMAIN-SUFFIX,wikia.com,Oversea
+DOMAIN-SUFFIX,wn.com,Oversea
+DOMAIN-SUFFIX,wolframalpha.com,Oversea
+DOMAIN-SUFFIX,x-art.com,Oversea
+DOMAIN-SUFFIX,yimg.com,Oversea
+
+DOMAIN-KEYWORD,dlercloud,Oversea
+DOMAIN-SUFFIX,dler.cloud,Oversea
+
+# Local Area Network
+DOMAIN-KEYWORD,announce,DIRECT
+DOMAIN-KEYWORD,torrent,DIRECT
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-SUFFIX,smtp,DIRECT
+DOMAIN-SUFFIX,local,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
+
+# > IQIYI
+IP-CIDR,101.227.0.0/16,DomesticMedia
+IP-CIDR,101.224.0.0/13,DomesticMedia
+IP-CIDR,119.176.0.0/12,DomesticMedia
+
+# > Youku
+IP-CIDR,106.11.0.0/16,DomesticMedia
+
+# > Telegram
+IP-CIDR,67.198.55.0/24,Oversea
+IP-CIDR,91.108.4.0/22,Oversea
+IP-CIDR,91.108.8.0/22,Oversea
+IP-CIDR,91.108.12.0/22,Oversea
+IP-CIDR,91.108.16.0/22,Oversea
+IP-CIDR,91.108.56.0/22,Oversea
+IP-CIDR,109.239.140.0/24,Oversea
+IP-CIDR,149.154.160.0/20,Oversea
+IP-CIDR,205.172.60.0/22,Oversea
+
+# (Extra IP-CIRD)
+# > Google
+IP-CIDR,35.190.247.0/24,Oversea
+IP-CIDR,64.233.160.0/19,Oversea
+IP-CIDR,66.102.0.0/20,Oversea
+IP-CIDR,66.249.80.0/20,Oversea
+IP-CIDR,72.14.192.0/18,Oversea
+IP-CIDR,74.125.0.0/16,Oversea
+IP-CIDR,108.177.8.0/21,Oversea
+IP-CIDR,172.217.0.0/16,Oversea
+IP-CIDR,173.194.0.0/16,Oversea
+IP-CIDR,209.85.128.0/17,Oversea
+IP-CIDR,216.58.192.0/19,Oversea
+IP-CIDR,216.239.32.0/19,Oversea
+# > Facebook
+IP-CIDR,31.13.24.0/21,Oversea
+IP-CIDR,31.13.64.0/18,Oversea
+IP-CIDR,45.64.40.0/22,Oversea
+IP-CIDR,66.220.144.0/20,Oversea
+IP-CIDR,69.63.176.0/20,Oversea
+IP-CIDR,69.171.224.0/19,Oversea
+IP-CIDR,74.119.76.0/22,Oversea
+IP-CIDR,103.4.96.0/22,Oversea
+IP-CIDR,129.134.0.0/17,Oversea
+IP-CIDR,157.240.0.0/17,Oversea
+IP-CIDR,173.252.64.0/19,Oversea
+IP-CIDR,173.252.96.0/19,Oversea
+IP-CIDR,179.60.192.0/22,Oversea
+IP-CIDR,185.60.216.0/22,Oversea
+IP-CIDR,204.15.20.0/22,Oversea
+# > Twitter
+IP-CIDR,69.195.160.0/19,Oversea
+IP-CIDR,104.244.42.0/21,Oversea
+IP-CIDR,192.133.76.0/22,Oversea
+IP-CIDR,199.16.156.0/22,Oversea
+IP-CIDR,199.59.148.0/22,Oversea
+IP-CIDR,199.96.56.0/21,Oversea
+IP-CIDR,202.160.128.0/22,Oversea
+IP-CIDR,209.237.192.0/19,Oversea
+
+# > GeoIP China
+GEOIP,CN,Domestic

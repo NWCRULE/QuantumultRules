@@ -1,0 +1,110 @@
+# (OverseaMedia)
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com,OverseaMedia
+DOMAIN-SUFFIX,go.com,OverseaMedia
+
+# > AbemaTV
+DOMAIN,linear-abematv.akamaized.net,OverseaMedia
+DOMAIN-SUFFIX,abema.io,OverseaMedia
+DOMAIN-SUFFIX,abema.tv,OverseaMedia
+DOMAIN-SUFFIX,akamaized.net,OverseaMedia
+DOMAIN-SUFFIX,ameba.jp,OverseaMedia
+DOMAIN-SUFFIX,hayabusa.io,OverseaMedia
+
+# > Amazon Prime Video
+DOMAIN-SUFFIX,aiv-cdn.net,OverseaMedia
+DOMAIN-SUFFIX,amazonaws.com,OverseaMedia
+DOMAIN-SUFFIX,amazonvideo.com,OverseaMedia
+DOMAIN-SUFFIX,llnwd.net,OverseaMedia
+
+# > Bahamut
+DOMAIN-SUFFIX,bahamut.com.tw,OverseaMedia
+DOMAIN-SUFFIX,gamer.com.tw,OverseaMedia
+DOMAIN-SUFFIX,hinet.net,OverseaMedia
+
+# > BBC
+DOMAIN-KEYWORD,bbcfmt,OverseaMedia
+DOMAIN-KEYWORD,co.uk,OverseaMedia
+DOMAIN-KEYWORD,uk-live,OverseaMedia
+DOMAIN-SUFFIX,bbc.co,OverseaMedia
+DOMAIN-SUFFIX,bbc.co.uk,OverseaMedia
+DOMAIN-SUFFIX,bbc.com,OverseaMedia
+DOMAIN-SUFFIX,bbci.co,OverseaMedia
+DOMAIN-SUFFIX,bbci.co.uk,OverseaMedia
+
+# > CHOCO TV
+DOMAIN-SUFFIX,chocotv.com.tw,OverseaMedia
+
+# > Epicgames
+DOMAIN-KEYWORD,epicgames,OverseaMedia
+DOMAIN-SUFFIX,helpshift.com,OverseaMedia
+
+# > Fox+
+DOMAIN-KEYWORD,foxplus,OverseaMedia
+DOMAIN-SUFFIX,config.fox.com,OverseaMedia
+DOMAIN-SUFFIX,emome.net,OverseaMedia
+DOMAIN-SUFFIX,fox.com,OverseaMedia
+DOMAIN-SUFFIX,foxdcg.com,OverseaMedia
+DOMAIN-SUFFIX,foxnow.com,OverseaMedia
+DOMAIN-SUFFIX,foxplus.com,OverseaMedia
+DOMAIN-SUFFIX,foxplay.com,OverseaMedia
+DOMAIN-SUFFIX,ipinfo.io,OverseaMedia
+DOMAIN-SUFFIX,mstage.io,OverseaMedia
+DOMAIN-SUFFIX,now.com,OverseaMedia
+DOMAIN-SUFFIX,theplatform.com,OverseaMedia
+DOMAIN-SUFFIX,urlload.net,OverseaMedia
+
+# > HBO && HBO Go
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,OverseaMedia
+DOMAIN-SUFFIX,hbo.com,OverseaMedia
+DOMAIN-SUFFIX,hboasia.com,OverseaMedia
+DOMAIN-SUFFIX,hbogo.com,OverseaMedia
+DOMAIN-SUFFIX,hbogoasia.hk,OverseaMedia
+
+# > Hulu
+DOMAIN-SUFFIX,happyon.jp,OverseaMedia
+DOMAIN-SUFFIX,hulu.com,OverseaMedia
+DOMAIN-SUFFIX,huluim.com,OverseaMedia
+DOMAIN-SUFFIX,hulustream.com,OverseaMedia
+
+# > Imkan
+DOMAIN-SUFFIX,imkan.tv,OverseaMedia
+
+# > JOOX
+DOMAIN-SUFFIX,joox.com,OverseaMedia
+
+# > MytvSUPER
+DOMAIN-KEYWORD,nowtv100,OverseaMedia
+DOMAIN-KEYWORD,rthklive,OverseaMedia
+DOMAIN-SUFFIX,mytvsuper.com,OverseaMedia
+DOMAIN-SUFFIX,tvb.com,OverseaMedia
+
+# > Netflix
+DOMAIN-SUFFIX,netflix.com,OverseaMedia
+DOMAIN-SUFFIX,netflix.net,OverseaMedia
+DOMAIN-SUFFIX,nflxext.com,OverseaMedia
+DOMAIN-SUFFIX,nflximg.com,OverseaMedia
+DOMAIN-SUFFIX,nflximg.net,OverseaMedia
+DOMAIN-SUFFIX,nflxso.net,OverseaMedia
+DOMAIN-SUFFIX,nflxvideo.net,OverseaMedia
+
+# > Pandora
+DOMAIN-SUFFIX,pandora.com,OverseaMedia
+
+# > Sky GO
+DOMAIN-SUFFIX,sky.com,OverseaMedia
+DOMAIN-SUFFIX,skygo.co.nz,OverseaMedia
+
+# > Spotify
+DOMAIN-KEYWORD,spotify,OverseaMedia
+DOMAIN-SUFFIX,scdn.co,OverseaMedia
+DOMAIN-SUFFIX,spoti.fi,OverseaMedia
+
+# > viuTV
+DOMAIN-SUFFIX,viu.tv,OverseaMedia
+
+# > Youtube
+DOMAIN-KEYWORD,youtube,OverseaMedia
+DOMAIN-SUFFIX,googlevideo.com,OverseaMedia
+DOMAIN-SUFFIX,gvt2.com,OverseaMedia
+DOMAIN-SUFFIX,youtu.be,OverseaMedia
